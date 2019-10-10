@@ -1,5 +1,5 @@
 {
-  "name": "themosis/themosis",
+  "name": "zynfly/themosis",
   "description": "The Themosis framework. A WordPress framework.",
   "keywords": ["themosis", "framework", "wordpress"],
   "license": "GPL-2.0-or-later",
@@ -35,7 +35,7 @@
     "php": ">=7.1.0",
     "johnpbloch/wordpress-core": "^5.1.0",
     "johnpbloch/wordpress-core-installer": "^1.0",
-    "themosis/framework": "^2.0.0"
+    "zynfly/framework": "^2.0.0"
   },
   "require-dev": {
     "laravel/homestead": "^7.0",

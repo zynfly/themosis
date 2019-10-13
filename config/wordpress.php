@@ -47,7 +47,7 @@ define('DB_COLLATE', config('database.connections.mysql.collation'));
 */
 define('WP_HOME', config('app.url'));
 define('WP_SITEURL', config('app.wp.url'));
-define('WP_CONTENT_URL', WP_HOME.'/'.CONTENT_DIR);
+define('WP_CONTENT_URL', '/' . CONTENT_DIR);
 
 /*
 |--------------------------------------------------------------------------

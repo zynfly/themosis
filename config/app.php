@@ -159,7 +159,7 @@ return [
         App\Hooks\Compat::class,
         App\Hooks\Mail::class,
         App\Hooks\Widgets::class,
-        Themosis\Route\Hooks\WpTheme::class
+        Themosis\Route\Hooks\WordPressThemeSupport::class
     ],
 
     /*
